@@ -1,16 +1,33 @@
-## Hi there 👋
+### Hi there! 👋 My name is Den, I'm glad that you've visited my page.
 
-<!--
-**dd-frontman/dd-frontman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+*  28 years old (May 19, 1997)  
+*  khausden@gmail.com  
+*  [telegram](https://t.me/dh_engineer)  
+*  [Codewars profile](https://www.codewars.com/users/dk-97)  
+*  Open to relocation & occasional business trips  
+*  Work experience since 2019  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Skills
+
+*  Languages: Russian (native), English (B2)  
+*  Technologies: JS/TS, HTML5/Pug, СSS/SCSS, REST API, Vue/Nuxt/Quasar/React, Git & etc.  
+*  Experience with 1C-Bitrix, PHP, Yii2, PostgreSQL, Bootstrap  
+*  Expert in Adaptive & Cross-browser layout  
+
+---
+
+## 🎓 Education
+
+*  Bachelor’s degree in Computer Software and Automated Systems, Siberian State University of Telecommunications and Informatics, Novosibirsk (Graduated 2022)
+*  Secondary Vocational Diploma in Computer Programming (Technician-Programmer) (Graduated 2017)
+
+---
+
+## 🙋‍♂️ About me
+
+*  Passionate about clean code and intuitive UIs, I tackle tasks with great responsibility and ensure efficient and timely communication.  
+*  Always eager to learn the latest industry trends and technologies.  
+*  Prefer remote work but can adapt to a suitable timezone for the team.  
+*  In my spare time, I enjoy sports and video games.  
