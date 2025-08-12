@@ -3,7 +3,7 @@
 *  28 years old (May 19, 1997)  
 *  h4nn97@yandex.ru  
 *  [telegram](https://t.me/dh_engineer)  
-*  [Codewars profile](https://www.codewars.com/users/dk-97)  
+*  [Codewars profile](https://www.codewars.com/users/dk-97](https://www.codewars.com/users/dd-frontman)  
 *  Open to relocation & occasional business trips  
 *  Work experience since 2019  
 
